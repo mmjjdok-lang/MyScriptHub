@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("git@github.com:mmjjdok-lang/MyScriptHub.git"))()
+loadstring(game:HttpGet("https://github.com/mmjjdok-lang/MyScriptHub.git"))()
 -- 👤 اللاعب
 local player = game.Players.LocalPlayer
 local camera = workspace.CurrentCamera
